@@ -4,4 +4,4 @@ This is a simple readme file.
 And now it is modified.
 
 This is the second change.
-This line will cause a merge conflict.
+Reason of confict is that we changed the same line on both the branches.
