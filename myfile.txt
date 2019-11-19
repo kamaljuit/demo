@@ -1,2 +1,6 @@
 	This is the first change.
+<<<<<<< Updated upstream
 This is not a stashed change.
+=======
+This is a mistake.
+>>>>>>> Stashed changes
